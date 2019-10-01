@@ -10,11 +10,11 @@
 
     <!-- TODO 1: First set teh AppTheme.Launcher Theme, use launch_screen in drawable directory -->
     <style name="AppTheme.Launcher">
-        <item name="android:windowBackground">@drawable/launch_screen</item>
+        <item name="android:windowBackground">@drawable/launcher_image</item>
     </style>
 
-    <style name="AppTheme.LauncherAfterSplash">
-        <item name="android:windowBackground">@color/colorAccent</item>
+    <style name="AppTheme.transparent">
+        <item name="android:windowBackground">@color/white</item>
     </style>
 
 </resources>
