@@ -13,5 +13,9 @@
         <item name="android:windowBackground">@drawable/launch_screen</item>
     </style>
 
+    <style name="AppTheme.LauncherAfterSplash">
+        <item name="android:windowBackground">@color/colorAccent</item>
+    </style>
+
 </resources>
 
