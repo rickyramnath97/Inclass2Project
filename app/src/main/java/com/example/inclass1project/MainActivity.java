@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     //How to do Toast Button Part 1
     protected Button myButton;
-    String myString = "Hello this is my first android APP";
+    String myString = "Hello this is my first android APP!!!!";
 
 
     //How to do Toast Button Part 2
